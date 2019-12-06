@@ -1,0 +1,11 @@
+email: sroque.roque@gmail.com
+fullname: 'sandro galiazzi'
+title: admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$RZ79ycfVSFdSV1yNG2wbuuyCW6ox7U1x6ETaSmWlsuJDLaZrhGkfO
